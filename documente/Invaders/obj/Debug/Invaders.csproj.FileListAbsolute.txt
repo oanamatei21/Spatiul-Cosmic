@@ -1,0 +1,47 @@
+C:\Users\Elev3\source\repos\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\Elev3\source\repos\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\Elev3\source\repos\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.Game.resources
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.Main.resources
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.Properties.Resources.resources
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.Cache
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\Elev3\source\repos\Invaders\Invaders\obj\Debug\Invaders.pdb
+F:\Invaders\Invaders\bin\Debug\Invaders.exe.config
+F:\Invaders\Invaders\obj\Debug\Invaders.exe
+F:\Invaders\Invaders\obj\Debug\Invaders.pdb
+F:\Invaders\Invaders\bin\Debug\Invaders.exe
+F:\Invaders\Invaders\bin\Debug\Invaders.pdb
+F:\Invaders\Invaders\obj\Debug\Invaders.csprojResolveAssemblyReference.cache
+F:\Invaders\Invaders\obj\Debug\Invaders.Game.resources
+F:\Invaders\Invaders\obj\Debug\Invaders.Main.resources
+F:\Invaders\Invaders\obj\Debug\Invaders.Properties.Resources.resources
+F:\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.Cache
+F:\Invaders\Invaders\obj\Debug\Invaders.Instructions.resources
+F:\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\bin\Debug\Invaders.exe
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\bin\Debug\Invaders.pdb
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.Game.resources
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.Instructions.resources
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.Main.resources
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.csproj.GenerateResource.Cache
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.exe
+C:\Users\Gabi\Desktop\Programe C#\Dodger\Invaders\obj\Debug\Invaders.pdb
+C:\Users\Test\Desktop\Dodger\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\Test\Desktop\Dodger\Invaders\bin\Debug\Invaders.exe
+C:\Users\Test\Desktop\Dodger\Invaders\bin\Debug\Invaders.pdb
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.Game.resources
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.Instructions.resources
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.Main.resources
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.Properties.Resources.resources
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.exe
+C:\Users\Test\Desktop\Dodger\Invaders\obj\Debug\Invaders.pdb
