@@ -57,3 +57,94 @@ C:\Users\Meta Micron\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Windows
 C:\Users\Meta Micron\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sistemul_solar.resources
 C:\Users\Meta Micron\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sistemul_solar_imagini.resources
 C:\Users\Meta Micron\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Joc.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\bin\Debug\Database1.mdf
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\bin\Debug\Database1_log.ldf
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Albert_Einstein.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Astronomia.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Caracteristici.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Categorii.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Cercetatori.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Contextul_galactic.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Cuprins.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dimensiunile_relative.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Galileo_Galilei.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Game.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Inceput.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Incursiune_în_trecut.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Instructions.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Isaac_Newton.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Joc.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Main.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mesaj.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ce_înseamnă_spațiul_cosmic.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Partea_de_studiu.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Primele_călătorii_în_spațiu.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Quiz.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sistemul_solar.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sistemul_solar_imagini.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Stephen_Hawking.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilizatori.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Signin.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Video.resources
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Meta Micron\Desktop\copie\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\bin\Debug\Database1.mdf
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\bin\Debug\Database1_log.ldf
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Albert_Einstein.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Astronomia.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Caracteristici.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Categorii.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Cercetatori.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Contextul_galactic.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Cuprins.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dimensiunile_relative.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Galileo_Galilei.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Game.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Inceput.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Incursiune_în_trecut.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Instructions.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Isaac_Newton.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Joc.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Main.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mesaj.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ce_înseamnă_spațiul_cosmic.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Partea_de_studiu.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Primele_călătorii_în_spațiu.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Quiz.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sistemul_solar.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sistemul_solar_imagini.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Stephen_Hawking.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilizatori.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Signin.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Video.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Astrometrie.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Astrofizica.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormareaGalaxiilor.resources
+C:\Users\Meta Micron\Desktop\proiect InfoEducatia2019 Nationala\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
